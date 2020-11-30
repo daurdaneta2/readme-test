@@ -10,3 +10,8 @@ perfil profesional
 - Java
 - C#
 - Golang
+
+## Preferencias
+1) Videojuegos
+2) Arte
+3) Comida
