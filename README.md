@@ -21,3 +21,9 @@ perfil profesional
 |---|---|---|
 |2020|02|09|
 |2010|05|22|
+
+
+## Comandos
+´´´
+java -jar /opt/test/app.jar
+´´´
