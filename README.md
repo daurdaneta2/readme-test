@@ -24,6 +24,6 @@ perfil profesional
 
 
 ## Comandos
-´´´
+´´´bash
 java -jar /opt/test/app.jar
 ´´´
