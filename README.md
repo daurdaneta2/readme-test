@@ -11,8 +11,8 @@ perfil profesional
 - C#
 - Golang
 
-- [] Angular
-- [] Delphi
+- [ ] Angular
+- [ ] Delphi
 
 ## Preferencias
 1) Videojuegos
